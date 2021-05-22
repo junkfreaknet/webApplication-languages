@@ -1,4 +1,18 @@
-body
-{
+body {
   font-size: 40pt;
 }
+
+  /*table{
+	border: 4px;
+  }
+  */
+td {
+  border: 4px solid;
+  /*padding: 0px;*/
+  margin: 0;
+}
+
+  /*tr{
+	margin: 0px;
+  }
+  */
