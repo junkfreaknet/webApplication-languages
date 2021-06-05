@@ -2,17 +2,15 @@ body {
   font-size: 40pt;
 }
 
-  /*table{
-	border: 4px;
-  }
-  */
-td {
-  border: 4px solid;
-  /*padding: 0px;*/
-  margin: 0;
+table  {
+  border-collapse:collapse;
+  border: solid 5px;
 }
 
-  /*tr{
-	margin: 0px;
-  }
-  */
+td{
+  border: solid 5px;
+}
+
+.multi-row-td {
+  border:  none 0px;  
+}

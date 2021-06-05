@@ -1,0 +1,19 @@
+/* for table test */
+
+body {
+  font-size: 40px;
+}
+
+table  {
+  /*margin: 0px 0px 0px 0px;
+  border:  solid 10px;*/
+  border-collapse:collapse;
+}
+tr  {
+  /*margin: 0px 0px 0px 0px;*/
+}
+td  {
+  margin: -3px -3px -3px -3px;
+  border: solid 10px;
+}
+
