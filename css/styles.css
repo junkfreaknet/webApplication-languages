@@ -11,6 +11,10 @@ td{
   border: solid 5px;
 }
 
-.multi-row-td {
-  border:  none 0px;  
+.border-none tr{
+  border:none;
+}
+.multi-columns-td td{
+  border: none solid none solid;
+ 
 }
